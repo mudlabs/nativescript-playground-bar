@@ -1,11 +1,35 @@
 {
   "name": "nativescript-playground-bar",
   "version": "1.0.0",
+  "description":
+    "Set the status bar in NativeScripts' Playground to light or dark content.",
   "main": "playground-bar",
   "nativescript": {
     "platforms": {
       "ios": "6.0.0",
       "android": "6.0.0"
     }
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mudlabs/nativescript-playground-bar.git"
+  },
+  "keywords": [
+    "iOS",
+    "Status Bar",
+    "Light Content",
+    "Dark Content",
+    "NativeScript",
+    "Playground"
+  ],
+  "author": {
+    "name": "Sam Donald",
+    "email": "npm@mudlabs.com.au"
+  },
+  "bugs": {
+    "url": "https://github.com/mudlabs/nativescript-playground-bar/issues"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/mudlabs/nativescript-playground-bar",
+  "readmeFilename": "README.md"
 }
