@@ -1,0 +1,11 @@
+{
+  "name": "nativescript-playground-bar",
+  "version": "1.0.0",
+  "main": "playground-bar",
+  "nativescript": {
+    "platforms": {
+      "ios": "6.0.0",
+      "android": "6.0.0"
+    }
+  }
+}
