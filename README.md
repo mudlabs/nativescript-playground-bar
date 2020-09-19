@@ -1,3 +1,7 @@
+[status]: https://img.shields.io/badge/Status-Broken-/?style=for-the-badge&color=red
+
+![status]
+
 # nativescript-playground-bar
 A plugin for your NativeScript Playground projects to help implement a light or dark content status bar.
 
